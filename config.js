@@ -11,7 +11,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-solidstate/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'YURIFit Projects - ジュニア選手育成計画',
-  subHeading: '目指せ、インターハイや全日本選手権で優勝できる全国レベルの北海道選手を排出！',
+  subHeading: '目指せ！インターハイや全日本選手権で優勝できる全国レベルの北海道選手を排出せよ',
   // social
   socialLinks: [
     {
